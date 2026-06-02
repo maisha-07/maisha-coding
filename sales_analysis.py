@@ -32,3 +32,42 @@ print(df.groupby('product')['amount'].sum().sort_values(ascending=False))
 print("\nAverage sale:")
 print(df['amount'].mean())
 
+print("\nLondon sales over 700")
+print(df[(df['city'] == 'London') & (df['amount']>700)] )
+
+print("\nSales sorted by amount (high to low):")
+print(df.sort_values('amount', ascending=False) )
+
+df['discount_price'] = df['amount'] * 0.9
+print("\nDiscounted column:")
+print(df)
+
+print("\nSales by city and product:")
+print(df.groupby(['city' , 'product'])['amount'].sum())
+
+
+print("\nUnique product:")
+print(df['product'].nunique())
+
+
+print("\nProduct count:")
+print(df['product'].value_counts())
+
+
+customer_data = {
+    "city": ["London", "Paris", "Berlin", "Tokyo"],
+    "country": ["UK", "France", "Germany", "Japan"],
+    "vat_rate": [20, 20, 19, 10]
+}
+
+customers_df = pd.DataFrame(customer_data)
+
+print("\nCustomer data:")
+print(customers_df)
+
+merged = df.merge(customers_df , on='city')
+print("\nMerged data:")
+print(merged)
+
+print("\ntotal sales per country:")
+print(merged.groupby('country')['amount'].sum())
