@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Create a DataFrame (table) just like customers in SQL
+
 data = {
     "name": ["Maisha", "Tom", "Sara", "Ahmed", "Lily"],
     "city": ["London", "Paris", "Berlin", "London", "Paris"],
