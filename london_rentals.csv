@@ -1,0 +1,101 @@
+borough,zone,year,property_type,median_rent_pcm,num_listings
+Westminster,Central,2022,1bed,2050,320
+Westminster,Central,2022,2bed,2850,210
+Westminster,Central,2023,1bed,2180,305
+Westminster,Central,2023,2bed,3020,200
+Westminster,Central,2024,1bed,2280,290
+Westminster,Central,2024,2bed,3180,195
+Westminster,Central,2025,1bed,2380,280
+Westminster,Central,2025,2bed,3290,185
+Westminster,Central,2026,1bed,2440,275
+Westminster,Central,2026,2bed,3380,180
+Kensington and Chelsea,Central,2022,1bed,2200,280
+Kensington and Chelsea,Central,2022,2bed,3050,175
+Kensington and Chelsea,Central,2023,1bed,2340,270
+Kensington and Chelsea,Central,2023,2bed,3220,170
+Kensington and Chelsea,Central,2024,1bed,2450,260
+Kensington and Chelsea,Central,2024,2bed,3380,165
+Kensington and Chelsea,Central,2025,1bed,2540,250
+Kensington and Chelsea,Central,2025,2bed,3490,160
+Kensington and Chelsea,Central,2026,1bed,2620,245
+Kensington and Chelsea,Central,2026,2bed,3580,155
+Camden,Inner,2022,1bed,1700,410
+Camden,Inner,2022,2bed,2200,265
+Camden,Inner,2023,1bed,1800,395
+Camden,Inner,2023,2bed,2330,255
+Camden,Inner,2024,1bed,1880,380
+Camden,Inner,2024,2bed,2410,245
+Camden,Inner,2025,1bed,1950,365
+Camden,Inner,2025,2bed,2480,235
+Camden,Inner,2026,1bed,2000,350
+Camden,Inner,2026,2bed,2520,225
+Hackney,Inner,2022,1bed,1550,480
+Hackney,Inner,2022,2bed,1980,310
+Hackney,Inner,2023,1bed,1640,465
+Hackney,Inner,2023,2bed,2110,300
+Hackney,Inner,2024,1bed,1720,450
+Hackney,Inner,2024,2bed,2220,290
+Hackney,Inner,2025,1bed,1790,440
+Hackney,Inner,2025,2bed,2300,280
+Hackney,Inner,2026,1bed,1830,425
+Hackney,Inner,2026,2bed,2350,270
+Tower Hamlets,Inner,2022,1bed,1680,520
+Tower Hamlets,Inner,2022,2bed,2080,340
+Tower Hamlets,Inner,2023,1bed,1780,500
+Tower Hamlets,Inner,2023,2bed,2200,325
+Tower Hamlets,Inner,2024,1bed,1850,485
+Tower Hamlets,Inner,2024,2bed,2300,315
+Tower Hamlets,Inner,2025,1bed,1910,470
+Tower Hamlets,Inner,2025,2bed,2370,305
+Tower Hamlets,Inner,2026,1bed,1950,455
+Tower Hamlets,Inner,2026,2bed,2420,295
+Southwark,Inner,2022,1bed,1620,460
+Southwark,Inner,2022,2bed,2050,295
+Southwark,Inner,2023,1bed,1720,445
+Southwark,Inner,2023,2bed,2180,285
+Southwark,Inner,2024,1bed,1800,430
+Southwark,Inner,2024,2bed,2280,275
+Southwark,Inner,2025,1bed,1860,415
+Southwark,Inner,2025,2bed,2350,265
+Southwark,Inner,2026,1bed,1900,400
+Southwark,Inner,2026,2bed,2400,260
+Newham,Outer,2022,1bed,1280,380
+Newham,Outer,2022,2bed,1580,240
+Newham,Outer,2023,1bed,1370,365
+Newham,Outer,2023,2bed,1680,230
+Newham,Outer,2024,1bed,1440,350
+Newham,Outer,2024,2bed,1760,220
+Newham,Outer,2025,1bed,1490,335
+Newham,Outer,2025,2bed,1820,215
+Newham,Outer,2026,1bed,1530,320
+Newham,Outer,2026,2bed,1860,205
+Croydon,Outer,2022,1bed,1080,590
+Croydon,Outer,2022,2bed,1320,380
+Croydon,Outer,2023,1bed,1150,575
+Croydon,Outer,2023,2bed,1400,370
+Croydon,Outer,2024,1bed,1210,560
+Croydon,Outer,2024,2bed,1470,360
+Croydon,Outer,2025,1bed,1260,545
+Croydon,Outer,2025,2bed,1520,345
+Croydon,Outer,2026,1bed,1290,530
+Croydon,Outer,2026,2bed,1560,335
+Bromley,Outer,2022,1bed,1180,320
+Bromley,Outer,2022,2bed,1450,210
+Bromley,Outer,2023,1bed,1250,305
+Bromley,Outer,2023,2bed,1540,200
+Bromley,Outer,2024,1bed,1310,290
+Bromley,Outer,2024,2bed,1610,195
+Bromley,Outer,2025,1bed,1360,280
+Bromley,Outer,2025,2bed,1670,185
+Bromley,Outer,2026,1bed,1390,270
+Bromley,Outer,2026,2bed,1710,180
+Ealing,Outer,2022,1bed,1320,410
+Ealing,Outer,2022,2bed,1700,265
+Ealing,Outer,2023,1bed,1400,395
+Ealing,Outer,2023,2bed,1800,255
+Ealing,Outer,2024,1bed,1470,380
+Ealing,Outer,2024,2bed,1880,245
+Ealing,Outer,2025,1bed,1530,365
+Ealing,Outer,2025,2bed,1950,235
+Ealing,Outer,2026,1bed,1570,350
+Ealing,Outer,2026,2bed,2000,225
